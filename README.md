@@ -3,7 +3,7 @@
 Create a readable Portfolio based on information entered through a command prompt. Using Node.js and the inquirer package, easily input your information and remove the hassle of needing to style and create the HTML page yourself.
 <br>
 
-## :delivery-truck: Getting it up and running
+## 🚚 Getting it up and running
 1. Clone the codebase from the [repo](https://github.com/mpityo/portfolio-generator).
 2. Query to the root file directory in any command prompt
 3. Run the following command to install required packages:
